@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import logo from './images/ss_mindworks_b.jpg';
+import logo from './images/mindworks_dark_logo_jpg.jpg';
 
 function App() {
   return (
